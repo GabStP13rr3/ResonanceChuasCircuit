@@ -1,9 +1,9 @@
-# Investigating Resonance in Chua's Circuit System 
+# Investigating Resonance in the Chua's Circuit System 
 
 The present project explores various input signals capable of inducing resonance on the Chua's Circuit system. Specifically, what are the possible external signals capable of inducing a maximum amplitude response in the Chua's Circuit system? 
 
 ![picture]() 
-/Users/gabrielst-pierre/Desktop/Circuit_Project/Photos/Chua_PCB_trans.png
+
 
 The path to the answer is divided into three sections:
 
