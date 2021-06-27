@@ -1,12 +1,12 @@
 # Investigating Resonance in the Chua's Circuit System 
 
-The present project explores various input signals capable of inducing resonance on the Chua's Circuit system. 
+The present research project explores the various input signals capable of inducing a non-inear resonance in the Chua's Circuit system. 
 
-Specifically -->  what are the input signals capable of inducing a maximum amplitude response in the Chua's Circuit system? 
+Specifically -->  what are the input signals capable of inducing a maximum amplitude response in the Chua's Circuit? 
 ![picture](https://github.com/GabStP13rr3/ResonanceChuasCircuit/blob/main/Visuals/Chua_PCB%20v3%20copy.png) 
 The path to the answer is divided into three sections:
 
-1) Reviewing the theory underlying resonance using Mathematica as computational environment. 
+1) Reviewing the theory underlying rnon-linear resonance using Mathematica as computational environment. 
 
 2) Simulating the range of resonant responses by the Chua's Circuit under various input signals with LTSpice circuit simulation software. 
 
@@ -14,4 +14,4 @@ The path to the answer is divided into three sections:
 
 Further details about the experimental procedures can be found by visiting the link below:
 
-LINK to be provided, project is under construction. 
+LINK to be provided
