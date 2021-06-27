@@ -1,4 +1,4 @@
-# Investigating Resonance in the Chua's Circuit System 
+# Investigating Non-Linear Resonance in the Chua's Circuit System 
 
 The present research project explores the various input signals capable of inducing a non-inear resonance in the Chua's Circuit system. 
 
