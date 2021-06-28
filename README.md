@@ -3,7 +3,7 @@
 The present research project explores the various input signals capable of inducing a non-inear resonance in the Chua's Circuit system. 
 
 Specifically -->  what are the input signals capable of inducing a maximum amplitude response in the Chua's Circuit? 
-![picture](https://github.com/GabStP13rr3/ResonanceChuasCircuit/blob/main/Visuals/Chua_PCB%20v3%20copy.png) 
+![picture](https://github.com/GabStP13rr3/ResonanceChuasCircuit/blob/main/Visuals%20/Hardware/3D_Trans_up_1.2.png) 
 The path to the answer is divided into three sections:
 
 1) Reviewing the theory underlying rnon-linear resonance using Mathematica as computational environment. 
