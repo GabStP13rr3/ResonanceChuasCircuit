@@ -14,4 +14,4 @@ The path to the answer is divided into three sections:
 
 Further details about the experimental procedures can be found by visiting the link below:
 
-LINK to be provided
+https://www.instructables.com/Investigating-Non-Linear-Resonance-in-the-Chuas-Ci/
