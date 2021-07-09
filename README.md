@@ -1,6 +1,6 @@
 # Investigating Non-Linear Resonance in the Chua's Circuit System 
 
-The present research project explores the various input signals capable of inducing a non-inear resonance in the Chua's Circuit system. 
+The present research project explores various input signals capable of inducing non-inear resonance in the Chua's Circuit system. 
 
 Specifically -->  What are the input signals capable of inducing a maximum amplitude response in the Chua's Circuit? 
 ![picture](https://github.com/GabStP13rr3/ResonanceChuasCircuit/blob/main/Visuals%20/Hardware/3D_Trans_up_1.2.png) 
